@@ -1,2 +1,2 @@
-to jest plik 1
+to jest plik 1 robimy konflikt
 to nie jest plik 1
