@@ -1,2 +1,3 @@
-to jest plik 1 tutaj będzie konflikt
+to jest plik 1 robimy konflikt 
 to nie jest plik 1
+teraz mozemy pusznac
